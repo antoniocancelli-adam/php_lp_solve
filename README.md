@@ -15,3 +15,8 @@ phpize
 ./configure
 make
 ```
+
+## Credits
+
+- Jesse Denardo
+- [@DontCryAndPlay](https://github.com/DontCryAndPlay)
