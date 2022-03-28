@@ -2,7 +2,7 @@
 
 A PHP extension to execute [lpsolve](https://sourceforge.net/projects/lpsolve/), a Mixed Integer Linear Programming (MILP) solver.
 
-Compatible with PHP >= 8.1
+Compatible with PHP 8.1
 
 
 ## How to compile
