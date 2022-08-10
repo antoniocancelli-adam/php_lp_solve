@@ -9,7 +9,8 @@ Compatible with PHP 8.1
 
 ```bash
 apt-get install liblpsolve55-dev php8.1-dev
-
+git clone https://github.com/antoniocancelli-adam/php_lp_solve.git
+cd php_lp_solve/
 cd src
 phpize
 ./configure
